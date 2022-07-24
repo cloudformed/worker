@@ -1,0 +1,2 @@
+# worker
+Template Cloudformed Worker
